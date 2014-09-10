@@ -1,6 +1,36 @@
-body{
-    background-color: forestgreen;
-} 
+/*body{
+    background-color: aqua;
+} */
 
-nav a
+nav a {
+ color: darkblue;
+}
+
+#crrent-link {
+    text-decoration: blue;
+}
+#wattup {
+    color: darkblue;
+}
+
+img{
+    width: 650px;
+    height: auto;
+}
+
+h1{
+    border: 10px lightskyblue dashed;
+    padding: 2px;
+    padding-left: 500px;
+}
+
+body{
+    background-image: url(images/puppies.png);
+    background-size: cover;
+}
+#projects{
+    background-image: url(images/callofduty.png);
+    background-size: cover;
+}
+
 
